@@ -1,4 +1,4 @@
-Space3D-
+Space3D
 ========
 
 Android application
